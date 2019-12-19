@@ -1,5 +1,5 @@
 # TextBasedGame
-#It is a text-based game which is coed in Java using BlueJ( integrated development environment).
+#It is a text-based game which is coded in Java using BlueJ( integrated development environment).
 #Game Description:
 ->At the start of the game you are in the lobby.You have been provided with a shovel when you enter the game.From the lobby you end up     in the Silver Stone Farm.
 ->You have one silver key buried in this farm which you have to find by digging the farm.
