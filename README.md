@@ -18,37 +18,3 @@
 #3)Parser:It scans the user's input and matches with the keyword and accordinggly runs the code.
 #4)Room: It is used for navigation in 4 directions: N,E,S,W.
 #5)Game: The main code for the actual game is written here.
-
-#1. Command
-public class Command
-{
-    private String commandWord;
-    private String secondWord;
-
-    public Command(String firstWord, String secondWord)
-    {
-        commandWord = firstWord;
-        this.secondWord = secondWord;
-    }
-
-    public String getCommandWord()
-    {
-        return commandWord;
-    }
-
-    public String getSecondWord()
-    {
-        return secondWord;
-    }
-
-    public boolean isUnknown()
-    {
-        return (commandWord == null);
-    }
-
-    public boolean hasSecondWord()
-    {
-        return (secondWord != null);
-    }
-}
-
