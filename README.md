@@ -14,3 +14,5 @@ How to run
 ->Click on OK to run the program.
 
 Result: the output of the program is shown in BlueJ's "terminal" window
+
+**Programmer: Saee A. Gore
