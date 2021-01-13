@@ -5,7 +5,7 @@
 - Install BlueJ IDE
 - Create the below 5 classes 
  1. Command  
-  - It specifies how many arguments should be taken from user. In this game, user can give one or two argumnets only.
+   - It specifies how many arguments should be taken from user. In this game, user can give one or two argumnets only.
  2. CommandWords
  3. Parser
  4. Room
