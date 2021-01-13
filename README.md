@@ -1,6 +1,5 @@
 # TextBasedGame
-  - It is a text-based game which is coded in Java using BlueJ( integrated development environment).
-  - The game entirely runs on the terminal.
+  - It is a text-based game which is coded in Java using BlueJ IDE ( Integrated Development Environment) and the game entirely runs on the terminal.
 
 ## How to run
 - Install Bluej
@@ -14,6 +13,6 @@
 - Click on OK to run the program.
 
 ## Result
-- The output of the program is shown in BlueJ's "terminal" window
+ The output of the program is shown in BlueJ's "terminal" window
 
 **Programmer: Saee A. Gore**
