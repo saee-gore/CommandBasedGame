@@ -1,5 +1,5 @@
 # CommandBasedGame
-  - It is a text-based game which is coded in Java using BlueJ IDE ( Integrated Development Environment) and the game entirely runs on the terminal.
+  - It is a command-based game which is coded in Java using BlueJ IDE ( Integrated Development Environment) and the game entirely runs on the terminal.
 
 ## How to run
 - Install BlueJ IDE
