@@ -251,6 +251,9 @@ class Game
             return true;  
         }
     }
+    public static void main(String args[]){
+        Game mygame = new Game();
+        mygame.play();
+
+    }
 }
-
-
